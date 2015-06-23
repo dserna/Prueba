@@ -19,6 +19,9 @@ public class ClasePersonal {
     private String Telefono;
     private String Celular;
     private String Correo;
+    /**
+     * Hola
+     */ 
     
     public ClasePersonal(String Documento, int TipoDoc, String Nombre, String Fecha, String Ciudad, int TipoSangre, int RH, String FechaContrato, String TipoContrato, String Cargo, String Direccion, String Telefono, String Celular, String Correo){
         
