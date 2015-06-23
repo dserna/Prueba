@@ -1,5 +1,5 @@
 package boutiquetrapitos;
-
+// clase de los metodos privados...
 public class ClasePersonal {
     private String Documento;
     private int TipoDoc;
