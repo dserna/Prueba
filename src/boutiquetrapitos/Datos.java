@@ -20,5 +20,5 @@ public class Datos {
         else{
             return false;
         }
-    } // Cierre del metodo. 
-} // Cierre del constructor.
+    }  
+} 
